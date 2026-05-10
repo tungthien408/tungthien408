@@ -6,3 +6,4 @@ A third year CS student in Saigon University
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tungthien408&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://github-readme-stats-delta-henna-38.vercel.app/api?username=tungthien408&show_icons=true&theme=dark" height="170"/>
